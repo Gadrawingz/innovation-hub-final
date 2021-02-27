@@ -1,0 +1,67 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend of innovation hub app",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon --watch backend --exec babel-node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gadrawingz/innovation-hub-final.git"
+  },
+  "keywords": [
+    "innovation",
+    "e-commerce",
+    "nodejs",
+    "reactjs",
+    "javascript",
+    "innovation-hub",
+    "shopping",
+    "store"
+  ],
+  "author": "Gadson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gadrawingz/innovation-hub-final/issues"
+  },
+  "homepage": "https://github.com/Gadrawingz/innovation-hub-final#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.12.17",
+    "@babel/core": "^7.12.17",
+    "@babel/node": "^7.12.17",
+    "@babel/preset-env": "^7.12.17",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.20.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "express-flash": "0.0.2",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.9.2",
+    "joi": "^17.4.0",
+    "jsonfile": "^6.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "method-override": "^3.0.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "rootpath": "^0.1.2",
+    "sequelize": "^6.5.0"
+  }
+}

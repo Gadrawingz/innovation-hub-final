@@ -1,0 +1,29 @@
+{
+  "name": "innovation-hub-final",
+  "version": "1.0.0",
+  "description": "Root dir for innovation hub app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gadrawingz/innovation-hub-final.git"
+  },
+  "author": "Gadson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gadrawingz/innovation-hub-final/issues"
+  },
+  "homepage": "https://github.com/Gadrawingz/innovation-hub-final#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.13.0",
+    "@babel/core": "^7.13.1",
+    "@babel/node": "^7.13.0",
+    "@babel/preset-env": "^7.13.0",
+    "eslint": "^7.20.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.0.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}

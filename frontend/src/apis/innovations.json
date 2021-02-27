@@ -1,0 +1,63 @@
+[
+    {
+        "_id": "product1",
+        "image": "../images/product-1.jpg",
+        "title": "First Product",
+        "shortNote": "Awesome thing",
+        "description": "This product is superb for everyone who wish to look prettier",
+        "inStock": 30,
+        "price": 500.23,
+        "rating": "4.5",
+        "numReviews": 10,
+        "innovator": "Kalisa"
+    },
+    {
+        "_id": "product2",
+        "image": "../images/product-2.jpg",
+        "title": "Awesome Product",
+        "shortNote": "Awesome artwork",
+        "description": "This product is superb for everyone who wish to look prettier",
+        "inStock": 30,
+        "price": 500.23,
+        "rating": "4.5",
+        "numReviews": 10,
+        "innovator": "Gad"
+    },
+    {
+        "_id": "product3",
+        "image": "../images/product-3.jpg",
+        "title": "Awesome Product",
+        "shortNote": "Awesome Stuff",
+        "description": "This product is superb for everyone who wish to look prettier",
+        "inStock": 30,
+        "price": 30.23,
+        "rating": "3.5",
+        "numReviews": 10,
+        "innovator": "Suzan"
+    },
+
+    {
+        "_id": "product4",
+        "image": "../images/product-4.jpg",
+        "title": "Awesome Product",
+        "shortNote": "Something",
+        "description": "I am on...",
+        "inStock": 30,
+        "price": 30.23,
+        "rating": "3.5",
+        "numReviews": 10,
+        "innovator": "Mimi"
+    },
+    {
+        "_id": "product5",
+        "image": "../images/product-5.jpg",
+        "title": "Awesome Product",
+        "shortNote": "Something cool",
+        "description": "I am on...",
+        "inStock": 30,
+        "price": 80.23,
+        "rating": "3.5",
+        "numReviews": 10,
+        "innovator": "Seyn"
+    }
+]

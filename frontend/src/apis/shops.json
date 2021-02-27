@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Amizero shop",
+        "shoplocation": "Kicukiro",
+        "shopOwner": "Kalisa Didas"
+    },
+    {
+        "id": "2",
+        "name": "Dream Shop",
+        "shoplocation": "Kicukiro",
+        "shopOwner": "IRADUFASHA Gad"
+    },
+    {
+        "id": "3",
+        "name": "Necklaces Store",
+        "shoplocation": "Kicukiro",
+        "shopOwner": "IHIMBAZWE Aimee"
+    },
+    {
+        "id": "4",
+        "name": "Big house shop",
+        "shoplocation": "Kicukiro",
+        "shopOwner": "Niyonshima Samusoni"
+    }
+]

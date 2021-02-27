@@ -1,0 +1,32 @@
+[
+    {
+        "customer_id" :"1",
+        "firstname" : "Mutesi",
+        "lastname" : "Donatha",
+        "username" : "Donatha",
+        "email": "donatha20@gmail.com",
+        "password": "12345",
+        "telnumber" : "0783745654",
+        "date_created": "2020-12-12 00:20"
+    },
+    {
+        "customer_id": "2",
+        "firstname": "Kamana",
+        "lastname": "Girbert",
+        "username": "Girbert",
+        "email": "girbert20@gmail.com",
+        "password": "girbert",
+        "telnumber": "0783722334",
+        "date_created": "2021-02-12 10:20"
+    },
+    {
+        "customer_id": "3",
+        "firstname": "UWINEZA",
+        "lastname": "Philbert",
+        "username": "Philbert",
+        "email": "philbert20@gmail.com",
+        "password": "philbert",
+        "telnumber": "0783722334",
+        "date_created": "2021-02-12 10:20"
+    }
+]
